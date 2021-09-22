@@ -74,6 +74,3 @@ summary( lm(blueTotalGold ~ Herald*Dragon, data=LOL_df) )
 summary( lm(blueTotalGold ~ Herald:Dragon, data=LOL_df) )
 
 summary( lm(blueTotalGold ~ 0+ Herald:Dragon, data=LOL_df) )
-
-
-

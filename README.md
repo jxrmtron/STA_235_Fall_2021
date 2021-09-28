@@ -13,7 +13,10 @@ Audio Only - https://utexas.zoom.us/rec/share/5ozj9uYC4IvsqH7_96V86Y8zm2RhvQiF_i
 
 Recording - https://utexas.zoom.us/rec/share/zN8PpLDtqqM4ifGFSqEFWHC9AF7pV6lwPhkOiznuJN8bgc1K95U21SI-yLAHQUau.GmrtVckJEs8IyWKc
 
+09/27/2021 - 
+Assumptions (There are two recordings. The first is a blooper so hit the button right next to the play butto to skip to the second recording. The recording you want to reference is 33 mins in length.)
 
+https://utexas.zoom.us/rec/share/qCp097h0-BFU9zU19YN1HaARmB-4oPA6_hxsEMLfsSvQqS7NhnTwmpKpDSg2V1k.ypkNNxm6hiugEsEb
 
 
 

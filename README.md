@@ -5,18 +5,22 @@ R Session Links
 
 09/08/2021 - Linear and Multiple Regression Review
 
-Video - https://utexas.zoom.us/rec/share/BPODSuQXlERLUI3pmpTJcNONThOpejQ01ia-8lhszy55cw8JsKTuQlTT7-kxGkDu.i3waf9qZ1XEHcCRi
-
-Audio Only - https://utexas.zoom.us/rec/share/5ozj9uYC4IvsqH7_96V86Y8zm2RhvQiF_iYWxCzsjjtif-WpT6FXocAFCBk6Kimt.7UlbhpT4W5zU_HZn
+Recording - https://utexas.zoom.us/rec/share/BPODSuQXlERLUI3pmpTJcNONThOpejQ01ia-8lhszy55cw8JsKTuQlTT7-kxGkDu.i3waf9qZ1XEHcCRi
 
 09/15/2021 - Interactions and Categorical Variables
 
 Recording - https://utexas.zoom.us/rec/share/zN8PpLDtqqM4ifGFSqEFWHC9AF7pV6lwPhkOiznuJN8bgc1K95U21SI-yLAHQUau.GmrtVckJEs8IyWKc
 
-09/27/2021 - 
+09/27/2021 
+
 Assumptions (There are two recordings. The first is a blooper so hit the button right next to the play butto to skip to the second recording. The recording you want to reference is 33 mins in length.)
 
-https://utexas.zoom.us/rec/share/qCp097h0-BFU9zU19YN1HaARmB-4oPA6_hxsEMLfsSvQqS7NhnTwmpKpDSg2V1k.ypkNNxm6hiugEsEb
+Recording - https://utexas.zoom.us/rec/share/qCp097h0-BFU9zU19YN1HaARmB-4oPA6_hxsEMLfsSvQqS7NhnTwmpKpDSg2V1k.ypkNNxm6hiugEsEb
 
+09/29/2021
+
+Non-Linear Transformationns
+
+Recording - https://utexas.zoom.us/rec/share/bIhxrrr36-UlFpsqWRutF_i95PdNgeu6wwf2YM3cW9YaBxCuItFpAkRV4Uw5YhB7.vsVBrT1UCi9XLzwj 
 
 

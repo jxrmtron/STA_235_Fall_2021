@@ -23,4 +23,10 @@ Non-Linear Transformationns
 
 Recording - https://utexas.zoom.us/rec/share/bIhxrrr36-UlFpsqWRutF_i95PdNgeu6wwf2YM3cW9YaBxCuItFpAkRV4Uw5YhB7.vsVBrT1UCi9XLzwj 
 
+10/10/2021
+
+Time Series Week 1
+
+Recording - https://utexas.zoom.us/rec/share/gku0ihJ6jZfOzOLeeqpLhXUpxTBH16C6iH4_9ljOQHnFwBfGFCEFXQU_Ge5K5D6y.0tYWbmy8Bv35T78e 
+
 

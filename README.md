@@ -27,6 +27,6 @@ Recording - https://utexas.zoom.us/rec/share/bIhxrrr36-UlFpsqWRutF_i95PdNgeu6wwf
 
 Time Series Week 1
 
-Recording - https://utexas.zoom.us/rec/share/gku0ihJ6jZfOzOLeeqpLhXUpxTBH16C6iH4_9ljOQHnFwBfGFCEFXQU_Ge5K5D6y.0tYWbmy8Bv35T78e 
+Recording - https://utexas.zoom.us/rec/share/lKn_evG3rbyRueiaBseRxFDhlRMr3OK0JukeBlxC9PTe-XE5E-E_vslAoxLYWG2r.Rw9h2S9QI6XSmUOQ
 
 

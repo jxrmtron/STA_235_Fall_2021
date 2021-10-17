@@ -1,6 +1,10 @@
 # STA-235-Fall-2021-LOL
 We have built this repository to house all the materials for the R sessions. You will be able to access the csv file, the R scripts for the individual R sessions, and the links to the R session recordings.
 
+Datasets: OldLOL.csv is for R sessions up through 10/10/2021. Once you reach Time Series, the dataset switches to LOL.csv
+
+
+
 R Session Links
 
 09/08/2021 - Linear and Multiple Regression Review
@@ -30,6 +34,8 @@ Time Series Week 1
 Recording - https://utexas.zoom.us/rec/share/lKn_evG3rbyRueiaBseRxFDhlRMr3OK0JukeBlxC9PTe-XE5E-E_vslAoxLYWG2r.Rw9h2S9QI6XSmUOQ
 
 Timer Sereis Week 2 : Dynamic Models
+
+10/13/2021
 
 Dynamic Models Recording - https://utexas.zoom.us/rec/share/GUAdXHjhKGgoKC0q37SF7ALzRPV1Bqc9CGGC8c5SU2zS1r29ehYNoMw53MwqaNiQ.kxdeK1e48iToCa13
 

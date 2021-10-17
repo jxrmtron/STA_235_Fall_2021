@@ -29,4 +29,10 @@ Time Series Week 1
 
 Recording - https://utexas.zoom.us/rec/share/lKn_evG3rbyRueiaBseRxFDhlRMr3OK0JukeBlxC9PTe-XE5E-E_vslAoxLYWG2r.Rw9h2S9QI6XSmUOQ
 
+Timer Sereis Week 2 : Dynamic Models
+
+Dynamic Models Recording - https://utexas.zoom.us/rec/share/GUAdXHjhKGgoKC0q37SF7ALzRPV1Bqc9CGGC8c5SU2zS1r29ehYNoMw53MwqaNiQ.kxdeK1e48iToCa13
+
+Market Beta Recording - https://utexas.zoom.us/rec/share/GUAdXHjhKGgoKC0q37SF7ALzRPV1Bqc9CGGC8c5SU2zS1r29ehYNoMw53MwqaNiQ.kxdeK1e48iToCa13
+
 

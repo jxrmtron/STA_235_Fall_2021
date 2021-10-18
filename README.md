@@ -46,7 +46,7 @@ Timer Sereis Week 2 : Dynamic Models
 
 10/13/2021
 
-Dynamic Models Recording - https://utexas.zoom.us/rec/share/GUAdXHjhKGgoKC0q37SF7ALzRPV1Bqc9CGGC8c5SU2zS1r29ehYNoMw53MwqaNiQ.kxdeK1e48iToCa13
+Dynamic Models Recording - https://utexas.zoom.us/rec/share/q8O0tcZMyoJPFduCrxZqQOwj2otBZIqPc5LPYFpWQZAA66tlRNgwefdxMOSDnZ5y.XOQZClGzOnkpCugT
 
 Market Beta Recording - https://utexas.zoom.us/rec/share/GUAdXHjhKGgoKC0q37SF7ALzRPV1Bqc9CGGC8c5SU2zS1r29ehYNoMw53MwqaNiQ.kxdeK1e48iToCa13
 

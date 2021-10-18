@@ -3,6 +3,15 @@ We have built this repository to house all the materials for the R sessions. You
 
 Datasets: OldLOL.csv is for R sessions up through 10/10/2021. Once you reach Time Series, the dataset switches to LOL.csv
 
+Homework Review Sessions courtesy of Natasha annd Jacob:
+
+Homework 1: https://utexas.zoom.us/rec/share/iCWCzAFoe8lBErAcmA9147AP7CXX44fHBJ4oLHzL75AoIMSAhLjrDz7AYOijWPvr.rONuGHcOaOBu5NJp (Links to an external site.)
+Homework 2: https://utexas.zoom.us/rec/share/Yst476XVA4o1Iy803UCWlfm7aOKveRiKvBuk_2uU29J9x5xVXB3KJsZMrPROiF0.69h5hrJlXKAcDdtf (Links to an external site.)
+Homework 3: https://utexas.zoom.us/rec/share/aN7pQ2MJMr140ntUNfY_uRSpaleVhAawoBEUQ-VOyTYfPRr6xRYsMtP7lqeHfXEN.z5E52UTjlE57ObrM (Links to an external site.)
+Homework 4: https://utexas.zoom.us/rec/share/y-moY-M-0JXFNIqOcYj34d6HDVO9UxGXIBd97FATTSaoowrCR-8G78mt4_2tZrco.Pw8XsAjkGuf7_Ok1 (Links to an external site.)
+Homework 5: https://utexas.zoom.us/rec/share/qYw9ESMC9kN9xCNyHzpR3cmLsU0ZpIRa2c64qUUjGvUZ99Pr3gquadvKiIL94jBI.2BSCV9drP5hcD5pL
+
+
 
 
 R Session Links

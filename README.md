@@ -15,6 +15,8 @@ Homework 4: https://utexas.zoom.us/rec/share/y-moY-M-0JXFNIqOcYj34d6HDVO9UxGXIBd
 
 Homework 5: https://utexas.zoom.us/rec/share/qYw9ESMC9kN9xCNyHzpR3cmLsU0ZpIRa2c64qUUjGvUZ99Pr3gquadvKiIL94jBI.2BSCV9drP5hcD5pL
 
+Homework 6: https://utexas.zoom.us/rec/share/eHdDPXNuZa3Y6FkQoPuMZbpLN1d9PGqrkNBHLJdvtTqmkJQlEEJcr7cBouu2ZLY0.1vDPwez4SO-V7C1y
+
 
 
 

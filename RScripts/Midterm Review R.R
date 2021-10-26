@@ -149,7 +149,7 @@ ggplot(LOL_df, aes(x = GoldDiff_15, y = GoldPerMin)) +
 lm7 <- lm(GoldPerMin ~ GoldDiff_15, data = LOL_df)
 summary(lm7)
 
-lm8 <- lm(GoldPerMin ~ I(GoldDiff_15^2), data = LOL_df)
+lm8 <- lm(GoldPerMin ~ GoldDiff_15 + I(GoldDiff_15^2), data = LOL_df)
 summary(lm8)
 
 #Expanding Data using log

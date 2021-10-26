@@ -50,12 +50,14 @@ Market Beta Recording - https://utexas.zoom.us/rec/share/GUAdXHjhKGgoKC0q37SF7AL
 
 
 
-10/20/31 - Midterm Pt1: R Coding Review
+10/20/21 - Midterm Pt1: R Coding Review
 
 Recording - https://utexas.zoom.us/rec/share/_cuvoAK3vUlxzg3Dg_-mBxTdwkojghAk3mDCAkNDLT5sATxyVbQBbAaVZYILaTDk.G4YdoAJXQcUwiBU6
 
 
+10/25/21 - Midterm Pt2: Conceptual Review
 
+Recording - https://utexas.zoom.us/rec/share/JRP6wngFcsaRQb9YzW45nM2wyu3BY-qH1GYivPqC_lNbTtZCJ6gTnBYXneoUE4TA.DywaaSI7R0VCTB1n
 
 
 

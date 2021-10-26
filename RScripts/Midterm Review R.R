@@ -37,6 +37,23 @@ LOL_df <- LOL%>%
 
 
 
+#Observing Response Variable
+
+hist(LOL_df$Gold)
+
+ggplot(data=LOL_df) +
+  geom_histogram(aes(x=Gold)) 
+
+#BootStrapping 
+Gold_mean <- do(1000)*mean(~Gold, data=resample(LOL_df,2))
+
+Gold_mean1 <- do(1000)*mean(~Gold, data=resample(LOL_df,30))
+
+ggplot(data=Gold_mean) +
+  geom_histogram(aes(x=mean)) 
+
+ggplot(data=Gold_mean1) +
+  geom_histogram(aes(x=mean)) 
 
 #Linear Regression
 
@@ -146,6 +163,7 @@ ggplot(data = LOL_df) +
 lm9 <- lm(log(Gold) ~ log(WardRatio) , data = LOL_df)
 
 summary(lm9)
+
 
 #log of response
 #Example: the coefficient is 0.198. (exp(0.198) - 1) * 100 = 21.9. For every one-unit 

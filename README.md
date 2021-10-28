@@ -60,5 +60,7 @@ Recording - https://utexas.zoom.us/rec/share/_cuvoAK3vUlxzg3Dg_-mBxTdwkojghAk3mD
 Recording - https://utexas.zoom.us/rec/share/JRP6wngFcsaRQb9YzW45nM2wyu3BY-qH1GYivPqC_lNbTtZCJ6gTnBYXneoUE4TA.DywaaSI7R0VCTB1n
 
 
+10/27/2021 - Logistic Regression
 
+Recording - https://utexas.zoom.us/rec/share/GBBVH1YcfsQupv6lh_uiP4wfLhQvcfRUv9Td6ybG6uBMsWduT2xUUQT5k_Z3Y3nH.IlezfkIExtxr5_hp
 

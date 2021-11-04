@@ -64,3 +64,7 @@ Recording - https://utexas.zoom.us/rec/share/JRP6wngFcsaRQb9YzW45nM2wyu3BY-qH1GY
 
 Recording - https://utexas.zoom.us/rec/share/GBBVH1YcfsQupv6lh_uiP4wfLhQvcfRUv9Td6ybG6uBMsWduT2xUUQT5k_Z3Y3nH.IlezfkIExtxr5_hp
 
+11/3/2021 - Model Selection
+
+Recording - https://utexas.zoom.us/rec/share/UP5WHCK14xHuApaGC00PRcjY4KPSr-MAadaeH1CiTvthWv0DpAOdC3AqIo9clxHr.seWly17wI7vmocxs
+

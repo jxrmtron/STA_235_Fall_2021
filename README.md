@@ -68,3 +68,7 @@ Recording - https://utexas.zoom.us/rec/share/GBBVH1YcfsQupv6lh_uiP4wfLhQvcfRUv9T
 
 Recording - https://utexas.zoom.us/rec/share/UP5WHCK14xHuApaGC00PRcjY4KPSr-MAadaeH1CiTvthWv0DpAOdC3AqIo9clxHr.seWly17wI7vmocxs
 
+11/15/2021 - Causal Inference
+
+Recording - https://utexas.zoom.us/rec/share/nn9WrGNFHU9JISGMMoW_eBz8YWqNY9BRJjpCl_M3jP9GuZwjF67a4jNnybEECw.yjloI11d9MhhhLyC
+

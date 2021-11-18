@@ -72,3 +72,7 @@ Recording - https://utexas.zoom.us/rec/share/UP5WHCK14xHuApaGC00PRcjY4KPSr-MAada
 
 Recording - https://utexas.zoom.us/rec/share/nn9WrGNFHU9JISGMMoW_eBz8YWqNY9BRJjpCl_M3jP9GuZwjF67a4jNnybEECw.yjloI11d9MhhhLyC
 
+11/18/2021 - Quasi-Experiments 
+
+Recording - https://utexas.zoom.us/rec/share/cTvFQ3rmEmeSZtvo9YrgzOEYLx6Ex0Qec_oi1fvy2walCnSYa_Nuk80uoL69uAee.JtJGuaxkVMBI7JLN
+

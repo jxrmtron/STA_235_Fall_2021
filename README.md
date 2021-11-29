@@ -17,6 +17,13 @@ Homework 5: https://utexas.zoom.us/rec/share/qYw9ESMC9kN9xCNyHzpR3cmLsU0ZpIRa2c6
 
 Homework 6: https://utexas.zoom.us/rec/share/eHdDPXNuZa3Y6FkQoPuMZbpLN1d9PGqrkNBHLJdvtTqmkJQlEEJcr7cBouu2ZLY0.1vDPwez4SO-V7C1y
 
+Homework 7: https://utexas.zoom.us/rec/share/cABPi3rKuPnaBK_WCIJi0cfl_ZncEVRJL6PJWqDgs6bzY83HkzqqHiyyfIFz7xCg.ZDn9b-rr4vo0PxTJ
+
+Homework 8: https://utexas.zoom.us/rec/share/idbRwYs4hbxlUtNLkD7lz1dIhKFKNOJWj-QZRb1Nvc5k9Y0-RUvMW04fRr4OTAib.osoGa0WcmKVSy8gT
+
+Homework 9: https://utexas.zoom.us/rec/play/XATJcv6_6hlWCqUpX3YEsr9-DPohv1eQD4cN3bzSkrAL1thh9D2XUWmAMZtLqR84luWkhcCWA5p962Gl.KOzAo2b4V2y6QARS?autoplay=true&continueMode=true&startTime=1637103782000
+
+Homework 10: https://utexas.zoom.us/rec/play/XATJcv6_6hlWCqUpX3YEsr9-DPohv1eQD4cN3bzSkrAL1thh9D2XUWmAMZtLqR84luWkhcCWA5p962Gl.KOzAo2b4V2y6QARS?autoplay=true&continueMode=true&startTime=1637104838000
 
 
 

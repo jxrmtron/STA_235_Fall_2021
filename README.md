@@ -83,3 +83,14 @@ Recording - https://utexas.zoom.us/rec/share/nn9WrGNFHU9JISGMMoW_eBz8YWqNY9BRJjp
 
 Recording - https://utexas.zoom.us/rec/share/cTvFQ3rmEmeSZtvo9YrgzOEYLx6Ex0Qec_oi1fvy2walCnSYa_Nuk80uoL69uAee.JtJGuaxkVMBI7JLN
 
+
+
+
+Final Exam Review Recordings
+
+Part 1 - https://utexas.zoom.us/rec/share/bUlQvF3LlAysmGF5RI_ynvEzQPo3XsnXBiOVUVWM4tkUlLT978JZAaUTDNWSPafP.Xip3Ra9XSbEb06eF
+
+Part 2 - https://utexas.zoom.us/rec/share/JVC8Sq8hcaHUsBidEanFmrUXbHFzS8VCtyu4CPCYhrauUi4TyVfbpGbsjJxWFqoh.8gNSUNdy3KwaJ2U5
+
+
+
